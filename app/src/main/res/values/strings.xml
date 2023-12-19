@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KarantinAgentlik</string>
+    <string name="str_title">Xorazm viloyati O‘simliklar karantini va himoyasi boshqarmasi mobil ilovasi</string>
+    <string name="str_enter">Kirish</string>
+    <string name="str_employee_list">Hodimlar ro\'yhati</string>
+    <string name="str_telegram_links">Telegram kanallar va guruhlar</string>
+</resources>
